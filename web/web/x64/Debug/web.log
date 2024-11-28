@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\web\web\web\main.cpp(124,73): warning C4244: “参数”: 从“size_t”转换到“double”，可能丢失数据
+D:\web\web\web\main.cpp(124,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\web\web\web\main.cpp(153,76): warning C4244: “参数”: 从“size_t”转换到“double”，可能丢失数据
+D:\web\web\web\main.cpp(153,46): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\web\web\web\main.cpp(193,44): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\web\web\web\main.cpp(197,44): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\web\web\web\main.cpp(201,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\web\web\web\main.cpp(337,23): warning C4101: “msg”: 未引用的局部变量
+D:\web\web\web\main.cpp(345,23): warning C4101: “msg”: 未引用的局部变量
+D:\web\web\web\main.cpp(424,23): warning C4101: “msg”: 未引用的局部变量
+D:\web\web\web\main.cpp(474,23): warning C4101: “msg”: 未引用的局部变量
+D:\web\web\web\main.cpp(483,23): warning C4101: “msg”: 未引用的局部变量
+  web.vcxproj -> D:\web\web\x64\Debug\web.exe
